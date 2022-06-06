@@ -5,6 +5,7 @@ container:{
 width: '100%',
 padding:  '10',
 },
+
 button: {
 backgroundColor: '',
 height: 40,
@@ -12,6 +13,7 @@ justifyContent: 'center',
 alignItems: 'center',
 borderRadius: 20,
 },
+
 text: {
 fontSize: '12',
 fontWeight: '500',
